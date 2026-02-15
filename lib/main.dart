@@ -127,7 +127,7 @@ class _SmartIrrigationAppState extends State<SmartIrrigationApp> {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'الري الذكي',
+      title: 'Smart Irrigation',
       theme: ThemeData(
         brightness: Brightness.light,
         primarySwatch: Colors.teal,

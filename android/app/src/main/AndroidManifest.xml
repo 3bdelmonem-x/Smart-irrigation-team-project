@@ -7,7 +7,7 @@
     <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
     <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
     <application
-        android:label="smart_irrigation"
+        android:label="Smart Irrigation"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
